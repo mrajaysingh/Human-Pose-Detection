@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
 # Human-Pose-Detection
-=======
+======= =======
 # 🎯 Advanced Human Pose Detection
 
 A powerful web application that detects and visualizes human pose landmarks in real-time using MediaPipe and Streamlit.
