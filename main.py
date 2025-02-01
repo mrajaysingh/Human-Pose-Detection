@@ -62,6 +62,7 @@ def main():
     2. Make sure the person is clearly visible
     3. The system will automatically detect and display pose landmarks
     """)
+
     
     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
     
