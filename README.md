@@ -4,9 +4,6 @@
 
 A powerful web application that detects and visualizes human pose landmarks in real-time using MediaPipe and Streamlit.
 
-## 🌟 Live Demo
-
-Try it out here: [Live Demo](https://happproject.live/)
 
 ## ✨ Features
 
