@@ -45,9 +45,9 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-![Screenshot 1](ss/screenshot1.png)
-![Screenshot 2](ss/screenshot2.png)
-![Screenshot 3](ss/screenshot3.png)
+![Screenshot 1](ss/1.UI.png)
+![Screenshot 2](ss/2.Select Image.png)
+![Screenshot 3](ss/3.Processed Image.png)
 
 ## 📝 Usage
 
