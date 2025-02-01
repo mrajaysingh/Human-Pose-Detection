@@ -52,15 +52,17 @@ streamlit run app.py
 ## ⚙️ Requirements
 
 Check `requirements.txt` for detailed dependencies:
-- mediapipe==0.10.8
-- streamlit==1.29.0
-- numpy==1.26.2
-- opencv-python==4.8.1.78
-- Pillow==10.1.0
+-mediapipe
+-streamlit==1.29.0
+-numpy==1.26.2
+-opencv-python==4.8.1.78
+-Pillow==10.1.0
+-blinker
 
 ## 📸 Screenshots
 
-[Add screenshots of your application here]
+
+
 
 ## 🤝 Contributing
 
