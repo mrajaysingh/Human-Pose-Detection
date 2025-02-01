@@ -42,6 +42,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
+## 📸 Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
+
 ## 📝 Usage
 
 1. 📤 Upload a clear, well-lit color photo
@@ -58,11 +65,6 @@ Check `requirements.txt` for detailed dependencies:
 -opencv-python==4.8.1.78
 -Pillow==10.1.0
 -blinker
-
-## 📸 Screenshots
-
-
-
 
 ## 🤝 Contributing
 
